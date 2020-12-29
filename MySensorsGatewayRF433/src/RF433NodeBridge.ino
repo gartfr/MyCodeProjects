@@ -58,7 +58,7 @@
 #define REMOTE_CODE 14732658
 #define TRMITR_PIN 3
 #define TRMITR_DUR 260
-#define TRMITR_CNT 2
+#define TRMITR_CNT 3
 
 #define CHILD_ID_REMOTE_0 0 // Declare the DEVICE A as a separate switch
 #define CHILD_ID_REMOTE_1 1
