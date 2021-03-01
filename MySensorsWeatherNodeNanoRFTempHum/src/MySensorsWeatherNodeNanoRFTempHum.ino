@@ -119,7 +119,7 @@ void loop() {
   Serial.print("°"+ String(tempUnit == BME280::TempUnit_Celsius ? 'C' :'F'));
   Serial.print("\t\tHumidity: ");
   Serial.print(hum);
-  Serial.print("% RH");
+  Serial.print("% RH\n");
 //  Serial.print("\t\tPressure: ");
 //  Serial.print(seaLevel);
 //  Serial.println(" hPa");
